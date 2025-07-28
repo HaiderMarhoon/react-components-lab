@@ -1,4 +1,4 @@
-import WeatherForecast from "./assets/companents/weatherForecasts/weatherForecasts";
+import WeatherForecast from "./assets/weatherForecasts/weatherForecasts";
 
 // src/App.jsx
 const weatherForecasts = [
